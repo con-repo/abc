@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="service.purevpn.monitor"
+       name="PureVPN Monitor OpenVPN"
+       version="1.2.5"
+       provider-name="PureVPN.Ltd">
+  <requires>
+    <import addon="xbmc.python" version="2.7.0"/>
+  </requires>
+  <extension point="xbmc.service" library="service.py" start="startup"/>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Configure and manage PureVPN connections using openVPN</summary>
+    <description lang="en">Watch your favorite TV shows, movies or live stream your favorite sports event without having the hassle of leaving XBMX/Kodi. You can simply install the addon on your Kodi client, select the country where you want to connect, and access your favorite content without any restrictions and watch international content like a local on your XBMC/Kodi Device. PureVPN has P2P optimized servers, so you can download, watch and share torrents anonymously, faster and without worrying about ISP throttling or online monitoring. Enjoy XBMC/Kodi to the fullest using PureVPN as a must-have security and privacy addon.</description>
+  </extension>
+</addon>

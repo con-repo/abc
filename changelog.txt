@@ -1,0 +1,52 @@
+v1.2.5
+- Google Analytics Events
+
+v1.2.4
+- Google Analytics PageView
+
+v1.2.3
+- Google Analytics
+
+v1.2.2
+- changed servers
+
+v1.2.1
+- changed servers
+
+v1.2.0
+- server list moved from settings dialog to add-on menu
+- changed servers
+- minor changes in gui
+
+v1.0.10
+- added new servers
+- removed old servers
+
+v1.0.9
+- removed old servers
+
+v1.0.8
+- fixed incorrect texts in gui
+
+v1.0.7
+- added readme.md
+
+v1.0.6
+- fixed incorrect texts in gui
+- added new servers
+
+v1.0.5
+- support of openELEC 7
+
+v1.0.4
+- added field in settings for displaying vpn server
+
+v1.0.3
+- fixed minor bug
+
+v1.0.2
+- UI changed
+- added new servers
+
+v1.0.0
+- initial version

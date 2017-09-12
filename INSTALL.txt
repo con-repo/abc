@@ -1,0 +1,9 @@
+Installation on openELEC 6
+1. First install openELEC's unofficial repository. Go to System -> Add-ons -> Install from repository -> OpenELEC Add-ons (official) -> Add-on repository -> OpenELEC Add-ons (unofficial).
+2. Then install from it openvpn add-on. Go to System -> Add-ons -> Install from repository -> OpenELEC Add-ons (unofficial) -> Program add-ons -> openvpn.
+3. Install Ivacy repository. You should download zip file  (https://bitbucket.org/KodiVPN/repository.ivacy.addons/downloads/repository.ivacy.addons.zip) and put it somewhere in accessible place for device. Go to System -> Add-ons -> Install from zip file. Then select downloaded zip.
+4. Install Ivacy Monitor OpenVPN. Go to System -> Add-ons -> Install from repository -> Ivacy repo -> Services -> Ivacy Monitor OpenVPN.
+
+Installation on openELEC 5
+1. Install Ivacy repository. You should download zip file  (https://bitbucket.org/KodiVPN/repository.ivacy.addons/downloads/repository.ivacy.addons.zip) and put it somewhere in accessible place for device. Go to System -> Add-ons -> Install from zip file. Then select downloaded zip.
+2. Install Ivacy Monitor OpenVPN. Go to System -> Add-ons -> Get Add-ons -> Ivacy repo -> Services -> Ivacy Monitor OpenVPN.
